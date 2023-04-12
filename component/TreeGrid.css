@@ -1,0 +1,11 @@
+table,
+th,
+td {
+  text-align: center;
+  justify-items: center;
+  border: 1px solid;
+}
+
+table {
+  border-collapse: collapse;
+}
